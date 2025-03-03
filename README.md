@@ -2,7 +2,7 @@
 A simple **Keyboard Hit Counter** project built using **HTML, CSS, and JavaScript**. This web application tracks the number of times any key is pressed on the keyboard and displays the count in real-time.
 
 ## Repo is live
-![Click Here](https://github.ganeshkantle.io/Keyboard-Hit-Counter)
+[Click Here](https://ganeshkantle.github.io/Keyboard-Hit-Counter)
 
 ## 📂 Project Structure
 ```
