@@ -1,6 +1,17 @@
 # Keyboard Hit Counter
-
 A simple **Keyboard Hit Counter** project built using **HTML, CSS, and JavaScript**. This web application tracks the number of times any key is pressed on the keyboard and displays the count in real-time.
+
+## Repo is live
+![Click Here](https://github.ganeshkantle.io/Keyboard-Hit-Counter)
+
+## 📂 Project Structure
+```
+Directory structure:
+└── ganeshkantle-keyboard-hit-counter/
+    ├── README.md
+    ├── LICENSE
+    └── index.html
+```
 
 ## Features
 - **Real-time Keypress Tracking**: Displays the total number of keypresses on the screen as the user interacts with the keyboard.
@@ -16,7 +27,8 @@ A simple **Keyboard Hit Counter** project built using **HTML, CSS, and JavaScrip
 To run the project locally, follow these steps:
 1. Clone the repository:
     ```bash
-   gh repo clone GaneshKantle/Keyboard-Hit-Counter
+   git clone https://github.com/GaneshKantle/Keyboard-Hit-Counter
+    cd Keyboard-Hit-Counter
     ```
 2. Open the `index.html` file in your browser to start using the hit counter.
 
@@ -27,3 +39,9 @@ To run the project locally, follow these steps:
 
 ---
 *A fun project to visualize your keyboard activity.*
+
+## 📬 Contact
+For any queries, feel free to reach out:
+- **Email:** ganeshkantle@gmail.com
+- **GitHub:** (https://github.com/ganeshkantle)
+- **My Bento:** (https://bento.me/kantle)
